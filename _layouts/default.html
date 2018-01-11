@@ -15,24 +15,40 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <div align="right">
+          <!--<a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
+          -->
 
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        {% endif %}
+          <a href="index.html"> <img style='height: 100%; width: 100%; object-fit: contain' src="logo.png" alt="klondik.io"/> </a>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
 
-        {% if site.show_downloads %}
-          <ul>
-            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-          </ul>
-        {% endif %}
+    <!--  {% if site.github.is_project_page %}
+            <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+          {% endif %}
+
+
+          {% if site.github.is_user_page %}
+            <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+          {% endif %}
+
+
+          {% if site.show_downloads %}
+            <ul>
+              <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+              <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+              <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+            </ul>
+          {% endif %}
+    -->
+
+          <p class="view"><a href="elearning.html">E-learning</a></p>
+
+          <p class="view"><a href="about.html">About Us</a></p>
+
+          <p class="view"><a href="contact.html">Contact</a></p>
+
+        <div/>
       </header>
       <section>
 
@@ -40,10 +56,16 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
+
+        <a href="http://www.acfe.com/"> <img style='height: 50%; width: 50%; object-fit: contain' align="right" src="cfe-logo.jpg" alt="CFE"/> </a>
+
+      <!-- {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      -->
+
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
