@@ -6,30 +6,10 @@
 
 ***
 
-<img style='height: 40%; width: 40%; object-fit: contain' src="Photo.jpg" align="right"/>
-Jeremy F. Isnard, CFE  founded klondik.io in 2016.
+[comment]: <img style='height: 40%; width: 40%; object-fit: contain' src="Photo.jpg" align="right"/>
 
-Growing professionally, his strong financial analyst background and data analysis skills were the right mix to
-become a skilled economic crime investigator, and quickly moved to establish his own consulting company.
+**klondik.io** emerged from the need expressed by Swiss NGOs from anti-fraud training backed by a strong academic background and provided by organizations with a spotless reputation. Jeremy Isnard and Olivier Beaudet-Labrecque kickstarted their first project in 2017 in associaiton with the "Institut de Lutte contre la Criminalité Economique" (ILCE) based in Neuchâtel, with which they nurture tight ties and collaborate on a regular basis.
 
-As a student of the MAS ECI he wrote his master thesis about what the Paris attacks taught us about the FATF standards on Terrorism Finance ; as a statistician he co-authored a research paper published in a top-tier management journal.
+**Jeremy Isnard** is a Certified Fraud Examiner and a MAS ECI gradtuate. Coming from a strong financial analyst background and a seasoned professional, he brings solid operational analysis along with  data analysis skills gained from his experience as a Research Collaborator in Statistics.
 
-klondik.io nurtures tight ties and collaborate on a regular basis with the Institut de Lutte contre la Criminalité Economique (ILCE) in Neuchâtel.  
-
-
-
-
-
-2017
-:   Certified Fraud Examiner (CFE)
-:   Certificate in Terrorism Studies \| University of St Andrews
-
-2016
-:   Master of Advanced Studies in Economic Crime Investigation \| ILCE
-:   Certificate in Statistical Analysis and R Programming \| University of Washington
-
-2014
-:  Chartered Financial Analyst (CFA) Level 2 Pass
-
-2009
-:  MSc. in Finance \| Reims Management School
+**Olivier Beaudet-Labrecque** is a Criminologist and a MAS ECI gradutate. As a Scientific Officer at the ILCE, he coordinates our relationships with our network of experts and brings a solid academic background and crucial training methods.

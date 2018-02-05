@@ -2,13 +2,9 @@
 <br>
 <br>
 <br>
-## Holistic Anti-Fraud and Anti-corruption Consulting Services
+## Economic Crime - Consulting Services
 
-
-### Business Intelligence
-
-### Anti-Fraud framework and training
-
-### Anti-Corruption framework (ISO 37001) and Training
-
-### Data analysis (crypto currencies)
+Founded in 2016 to provide support to set up anti-fraud frameworks and training to Swiss NGOs, **klondik.io** is currently active in the following services:
+* **Anti-Fraud & Anti-Corruption operational frameworks**
+* **Business Intelligence**
+* **Data analysis - cryptocurrencies investigation**
